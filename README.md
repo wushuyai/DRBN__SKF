@@ -3,6 +3,9 @@
 ### [Paper](http://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf) | [Project Page](https://github.com/flyywh/CVPR-2020-Semi-Low-Light) 
 ### Above are links to original paper and project, or you can just check the README_baseline.md for details of DRBN
 
+# vedio 
+vedio link： [baiduyun](https://pan.baidu.com/s/1oyQfZqUap49jhaQv5xokmg?pwd=hak7 )
+
 ## Get Started
 
 Create environment
@@ -81,8 +84,6 @@ python train_LOL.py --save_results --save_models --save result_dir
 ```
 
 All logging files in the training process, e.g., log message, checkpoints, and snapshots, will be saved to `../experiments/results_dir/`, please change the name if you change settings.
-# vedio 
-vedio link： [baiduyun](https://pan.baidu.com/s/1oyQfZqUap49jhaQv5xokmg?pwd=hak7 )
 
 ## Contact
 If you have any question, please feel free to contact us via xxxx.
